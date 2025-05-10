@@ -1,0 +1,210 @@
+[
+  {
+    "id": "1",
+    "name": "TechTrend Innovations",
+    "logo": "https://i.ibb.co.com/vC3mGLqj/techtrend.png",
+    "location": "San Francisco, CA",
+    "website": "https://techtrend.com",
+    "industry": "Software Development",
+    "jobs": [
+      {
+        "title": "Frontend Developer",
+        "bannerImage": "https://i.ibb.co.com/JjBmc15W/computer-language-html-css-website-600nw-1983038642.webp",
+        "location": "Remote",
+        "salary": "$90,000 - $120,000",
+        "jobType": "Full-time",
+        "description": "Develop and maintain web applications using modern frameworks.",
+        "requirements": [
+          "Proficient in HTML, CSS, and JavaScript",
+          "Experience with React or Vue.js",
+          "Familiarity with RESTful APIs",
+          "Good understanding of responsive design",
+          "Excellent problem-solving skills"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "DataSync Solutions",
+    "logo": "https://i.ibb.co.com/CKsYDMW4/DS-Logo-Le-Crop.png",
+    "location": "Boston, MA",
+    "website": "https://datasyncsolutions.com",
+    "industry": "Data Analytics",
+    "jobs": [
+      {
+        "id": "job-003",
+        "title": "Data Scientist",
+        "bannerImage": "https://i.ibb.co.com/1YwvVVRh/data-scientist-worker-minimal-infographic-banner-vector-2-BFEKGB.jpg",
+        "location": "Boston, MA",
+        "salary": "$110,000 - $140,000",
+        "jobType": "Full-time",
+        "description": "Analyze large datasets to derive actionable insights.",
+        "requirements": [
+          "Proficiency in Python or R",
+          "Experience with machine learning frameworks",
+          "Strong statistical analysis skills",
+          "Familiarity with big data tools like Hadoop or Spark",
+          "Excellent communication skills"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "CloudPeak Technologies",
+    "logo": "https://i.ibb.co.com/4R4GgC0J/creative-cloud-data-concept-logo-260nw-2265552845.webp",
+    "location": "Seattle, WA",
+    "website": "https://cloudpeaktech.com",
+    "industry": "Cloud Computing",
+    "jobs": [
+      {
+        "id": "job-004",
+        "title": "Cloud Engineer",
+        "bannerImage": "https://i.ibb.co.com/nsYkcTnW/cloud-computing-concept3590.jpg",
+        "location": "Remote",
+        "salary": "$95,000 - $125,000",
+        "jobType": "Full-time",
+        "description": "Design and implement cloud-based solutions.",
+        "requirements": [
+          "Experience with AWS, Azure, or Google Cloud",
+          "Knowledge of containerization (Docker, Kubernetes)",
+          "Understanding of CI/CD pipelines",
+          "Strong scripting skills (Python, Bash)",
+          "Ability to work in a team environment"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "HealthWave Systems",
+    "logo": "https://i.ibb.co.com/DHCRHf4D/images.png",
+    "location": "Austin, TX",
+    "website": "https://healthwavesystems.com",
+    "industry": "Healthcare Technology",
+    "jobs": [
+      {
+        "id": "job-005",
+        "title": "Software Engineer",
+        "bannerImage": "https://i.ibb.co.com/8nPWbj5Q/technical-banner-design-for-software-engineer-profile-vector.jpg",
+        "location": "Austin, TX",
+        "salary": "$85,000 - $115,000",
+        "jobType": "Full-time",
+        "description": "Develop software for healthcare applications.",
+        "requirements": [
+          "Proficiency in Java or C#",
+          "Experience with RESTful API development",
+          "Knowledge of HIPAA compliance",
+          "Strong problem-solving skills",
+          "Ability to work under tight deadlines"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "GreenEnergy Solutions",
+    "logo": "https://i.ibb.co.com/mFdvRrVZ/1.png",
+    "location": "Denver, CO",
+    "website": "https://greenenergysolutions.com",
+    "industry": "Renewable Energy",
+    "jobs": [
+      {
+        "id": "job-006",
+        "title": "Project Manager",
+        "bannerImage": "https://i.ibb.co.com/7t5KG4kT/project-manager-typographic-header-successful-strategy-planning-motivation-leadership-marketing-anal.jpg",
+        "location": "Denver, CO",
+        "salary": "$80,000 - $110,000",
+        "jobType": "Full-time",
+        "description": "Oversee renewable energy projects from start to finish.",
+        "requirements": [
+          "PMP or equivalent certification",
+          "Experience in project management tools (e.g., MS Project)",
+          "Knowledge of renewable energy systems",
+          "Strong leadership and communication skills",
+          "Ability to manage budgets and timelines"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "name": "FinTech Ventures",
+    "logo": "https://i.ibb.co.com/b5CHMgvK/images-1.png",
+    "location": "New York, NY",
+    "website": "https://fintechventures.com",
+    "industry": "Financial Technology",
+    "jobs": [
+      {
+        "id": "job-007",
+        "title": "DevOps Engineer",
+        "bannerImage": "https://i.ibb.co.com/VG2ZHBC/devops-banner-concept-development-operation-260nw-2182404347.webp",
+        "location": "Remote",
+        "salary": "$100,000 - $130,000",
+        "jobType": "Full-time",
+        "description": "Maintain and improve CI/CD pipelines and infrastructure.",
+        "requirements": [
+          "Experience with Terraform or Ansible",
+          "Knowledge of container orchestration (Kubernetes)",
+          "Familiarity with monitoring tools (e.g., Prometheus)",
+          "Strong Linux administration skills",
+          "Ability to troubleshoot complex systems"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "name": "EduTech Innovations",
+    "logo": "https://i.ibb.co.com/s9L4xrMJ/edutech-innovations-jubilee-hills-hyderabad-corporate-companies-faxuv80cv3.jpg",
+    "location": "Chicago, IL",
+    "website": "https://edutechinnovations.com",
+    "industry": "Education Technology",
+    "jobs": [
+      {
+        "id": "job-008",
+        "title": "UX/UI Designer",
+        "bannerImage": "https://i.ibb.co.com/23YTMTG0/concept-ui-ux-web-design-260nw-1310674073.webp",
+        "location": "Chicago, IL",
+        "salary": "$75,000 - $100,000",
+        "jobType": "Full-time",
+        "description": "Design user-friendly interfaces for educational platforms.",
+        "requirements": [
+          "Proficiency in Figma or Sketch",
+          "Experience with user research and testing",
+          "Strong understanding of design principles",
+          "Ability to create wireframes and prototypes",
+          "Excellent collaboration skills"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "name": "CyberShield Security",
+    "logo": "https://i.ibb.co.com/tMvFbcKV/cyber-security-logo-with-shield-vector-21344811.jpg",
+    "location": "Washington, DC",
+    "website": "https://cybershieldsecurity.com",
+    "industry": "Cybersecurity",
+    "jobs": [
+      {
+        "id": "job-009",
+        "title": "Security Analyst",
+        "bannerImage": "https://i.ibb.co.com/PvKNHVPm/corporate-investigator-touching-security-analyst-260nw-375480721.webp",
+        "location": "Washington, DC",
+        "salary": "$90,000 - $120,000",
+        "jobType": "Full-time",
+        "description": "Monitor and respond to security threats.",
+        "requirements": [
+          "Experience with SIEM tools (e.g., Splunk)",
+          "Knowledge of network security protocols",
+          "Familiarity with threat intelligence platforms",
+          "Strong analytical skills",
+          "Certifications like CISSP or CEH preferred"
+        ]
+      }
+    ]
+  }
+
+]

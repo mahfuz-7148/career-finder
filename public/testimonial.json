@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Jane Doe",
+    "role": "Software Engineer",
+    "testimonial": "CareerFinder made my job search so easy! I found my dream job in just a week."
+  },
+  {
+    "name": "John Smith",
+    "role": "Product Manager",
+    "testimonial": "The platform is intuitive, and the job listings are always up-to-date."
+  },
+  {
+    "name": "Emily Johnson",
+    "role": "UX Designer",
+    "testimonial": "I love how I can review job criteria before applying. It saved me so much time!"
+  }
+]
